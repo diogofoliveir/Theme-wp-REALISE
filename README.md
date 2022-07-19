@@ -69,9 +69,9 @@ Salut, BIENVENUE dans le <a href="https://www.realise.ch/" target="_blank" rel="
 
 <!-- ---------------RSS news---------------------- -->
 
-<a href="https://realise.ch/rss/news.php"><img align="left" src="
+<!-- <a href="https://realise.ch/rss/news.php"><img align="left" src="
 ![Rss-news svg](https://user-images.githubusercontent.com/99598124/179852744-f59045e7-fb6e-4042-9cec-a80e73214451.png)
-" alt="REALISE Formation digitale | RSS news" width="21px"/></a>
+" alt="REALISE Formation digitale | RSS news" width="21px"/></a> -->
 
 <!-- --------------------------------------------- -->
 
