@@ -47,6 +47,9 @@ Salut, BIENVENUE dans le <a href="https://www.realise.ch/" target="_blank" rel="
 <!-- --------------------------------------------------- -->
 
 
+## Contactez-nous🤝 ## 
+
+
 <!-- ---------------GIT HUB----------------------- -->
 
 <a href="https://github.com/Realise-Formation-Digital"><img align="left" src="https://user-images.githubusercontent.com/99598124/179851991-c607f52c-7500-4560-ba4b-8d218ab85d1e.png" alt="REALISE Formation digitale | Git Hub" width="21px"/></a>
@@ -82,6 +85,9 @@ Salut, BIENVENUE dans le <a href="https://www.realise.ch/" target="_blank" rel="
 
 <!-- --------------------------------------------- -->
 
+</br>
+
+<!-- ------------DESCRIPTION DU THEME REALISE----- -->
 
 <h3 align="center">
 Ce thème a été développé avec amour et passion par nos meilleures développeurs. Au lieux d'aller à la pinscine ou boire des mojitos en bord de plage, ils y ont travaillé nuits et jours, 7j/7, H24.
@@ -148,7 +154,7 @@ Thème REALISE devrait fonctionner avec les versions de WordPress jusqu'à 6.1, 
 
 
 <!-- -------------------------------------INSTALLATION------------------ -->
-## INSTALLATION ##
+## Installation ##
 
 Avec votre navigateur web, allez à la racine de votre répertoire Wordpress, et le programme d'installation se lancera. Suivez les instructions jusqu'à ce que Wordpress soit installé.
 
@@ -167,14 +173,14 @@ Les moyens d'installation ou d'utilisation, ne sont pas officiellement pris en c
 
 
 <!-- --------------------------------DOCUMENTATION--------------------------->
-## DOCUMENTATION ##
+## Documentation ##
 
 La documentation officielle de Wordpress est disponible en ligne sur son propre site .
 <!-- --------------------------------------------------------------------- -->
 
 
 <!-- ----------------------------------UTILISATION------------------------ -->
-## UTILISATION ##
+## Utilisation ##
 
 Besoin d'un thème polyvalente et créatif? Ne cherchez plus, enregistrez et installez Thème REALISE chez vous sans plus attendre:
 
@@ -202,7 +208,7 @@ Veuillez partager, contribuer et tester.
 
 
 <!-- -----------------------LICENSE-------------------------------------- -->
-## LICENSE: GPLv2 OU ULTÉRIEURE ##
+## License: GPLv2 ou Ultérieure ##
 
 Ce programme est un logiciel libre ; vous pouvez le redistribuer et/ou le modifier selon les termes de la licence publique générale GNU telle que publiée par la Free Software Foundation ; soit la version 2 de la licence, soit (à votre choix) toute version ultérieure.
 
