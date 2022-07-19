@@ -217,17 +217,7 @@ Ce programme est distribué dans l'espoir qu'il sera utile, mais SANS AUCUNE GAR
 <!-- -------------------------------------------------------------------- -->
 
 
-<!-- -------------------LOGO REALISE ORIGINAL---------------------------- -->
-
-<p align="center">
-  <a href="https://www.realise.ch/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/99598124/179856802-aa6e1987-0679-4d72-9736-e5882fd1fb78.jpg" alt="my banner"></a>
-</p>
-
-<!-- ----------------------------------------------------------------------->
-
-
 <!-- ------------------------AUTORS-------------------------------------- -->
-
 ### Auteurs ###
 
 Ce thème a été développé passion & amour par <a href="https://github.com/ocardo" target="_blank" rel="noreferrer">Olivier,</a>
@@ -236,8 +226,15 @@ Ce thème a été développé passion & amour par <a href="https://github.com/oc
 <a href="https://github.com/diagodryson" target="_blank" rel="noreferrer">Diago</a> & 
 <a href="https://github.com/GABSVN" target="_blank" rel="noreferrer">GABSVN</a>
 
-
 <!-- -------------------------------------------------------------------- -->
 
+
+<!-- -------------------LOGO REALISE ORIGINAL---------------------------- -->
+
+<p align="center">
+  <a href="https://www.realise.ch/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/99598124/179856802-aa6e1987-0679-4d72-9736-e5882fd1fb78.jpg" alt="my banner"></a>
+</p>
+
+<!-- ----------------------------------------------------------------------->
 
 
