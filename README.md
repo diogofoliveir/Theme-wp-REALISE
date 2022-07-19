@@ -226,3 +226,18 @@ Ce programme est distribué dans l'espoir qu'il sera utile, mais SANS AUCUNE GAR
 <!-- ----------------------------------------------------------------------->
 
 
+<!-- ------------------------AUTORS-------------------------------------- -->
+
+### Auteurs ###
+
+Ce thème a été développé passion & amour par <a href="https://github.com/ocardo" target="_blank" rel="noreferrer">Olivier,</a>
+<a href="https://github.com/diogofoliveir" target="_blank" rel="noreferrer">Diogo,</a>
+<a href="https://github.com/iniello" target="_blank" rel="noreferrer">Aniello,</a>
+<a href="https://github.com/diagodryson" target="_blank" rel="noreferrer">Diago</a> & 
+<a href="https://github.com/GABSVN" target="_blank" rel="noreferrer">GABSVN</a>
+
+
+<!-- -------------------------------------------------------------------- -->
+
+
+
